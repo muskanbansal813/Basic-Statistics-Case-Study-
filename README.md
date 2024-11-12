@@ -14,10 +14,10 @@ Alternative Hypothesis (H1): State the alternative hypothesis.
 
 #### Step 2: Select the Appropriate Test
 Based on the data type and business question, select the statistical test:
-t-test: For comparing means between two groups.
-ANOVA: For comparing means across multiple groups.
-Chi-Square Test: For testing independence between categorical variables.
-Correlation Test: To determine relationships between variables.
+1. **t-test:** For comparing means between two groups.
+2. **ANOVA:** For comparing means across multiple groups.
+3. **Chi-Square Test:** For testing independence between categorical variables.
+4. **Correlation Test:** To determine relationships between variables.
 
 #### Step 3: Perform Hypothesis Testing
 Use Python libraries such as scipy.stats to execute the hypothesis tests. Determine the p-value to decide if the null hypothesis can be rejected or not, using a significance level of 0.05.
